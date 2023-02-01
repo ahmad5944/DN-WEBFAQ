@@ -258,7 +258,6 @@
 				<div class="spacer" data-height="60"></div>
 
 				<div class="row">
-
 					<div class="col-md-12">
 						<!-- Contact Form -->
 						<form id="contact-form" class="contact-form mt-2" method="post" action="index.php">
